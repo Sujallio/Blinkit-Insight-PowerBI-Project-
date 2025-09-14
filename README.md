@@ -18,4 +18,4 @@ Interactive Filters: Outlet location, size, and item type
 
 This dashboard helps track business growth, product demand, and customer preferences, making it easier for stakeholders to take data-driven decisions.
 
-Dashboard Image: 
+Dashboard Image: https://github.com/Sujallio/Blinkit-Insight-PowerBI-Project-/blob/main/Screenshot%202025-09-14%20094800.png
